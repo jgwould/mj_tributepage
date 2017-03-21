@@ -1,25 +1,51 @@
 .container{
 	background-color: #D3D3D3;
-	margin: 50px 100px 50px 100px;	
+	border-radius: 10px; 
+	padding: 20px 40px 20px 40px;
+	margin: 10px 10px 10px 10px
 }
 .title{
-	margin: 50px 50px 50px 50px;
 	text-align: center;
 	color: #7BAFD4;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .quote{
-	margin: 50px 50px 50px 50px;
+	padding: 20px 20px 20px 20px;
 	color: white;
 	text-align: center;
-
-
+}
+.unc_logo{
+	text-align: center;
+	border-radius: 10px;
+}
+.background{
+	text-align: center;
+	background-color: black;
+	border-radius: 10px;
+	padding: 40px 10px 0px 10px;
 }
 
-.img{
-	max-width: 100%;
-	height: auto;
-	margin: 50px 50px 50px 50px;
-	display: block;
-	margin: auto auto;
+.dunk{
+	text-align: center;
+	overflow: hidden;
+}
+
+.dunk_text{
+	text-align: center;
+	color: white;
+	padding: 10px 60px 10px 60px;
+}
+
+.timeline{
+	margin: 10px;
+	color: white;
+	text-align: center;
+}
+
+.accomplishments{
+	color: white;
+	font-size: 16px;
+	line-height: 1.75;
 }
