@@ -1,8 +1,8 @@
 .container{
-	background-color: #D3D3D3;
+	background-color: #727272;
 	border-radius: 10px; 
 	padding: 20px 40px 20px 40px;
-	margin: 10px 10px 10px 10px
+	margin: 20px 20px 20px 20px
 }
 .title{
 	text-align: center;
@@ -40,6 +40,7 @@
 
 .timeline{
 	margin: 10px;
+	padding: 10px;
 	color: white;
 	text-align: center;
 }
@@ -48,4 +49,24 @@
 	color: white;
 	font-size: 16px;
 	line-height: 1.75;
+}
+
+.footer{
+	color: #7BAFD4;
+
+}
+
+.footer a:link {
+	color: yellow;
+}
+
+.footer a:visited{
+	color: purple;
+}
+.footer a:hover{
+	color: blue;
+}
+
+.footer a:active{
+	color: green;
 }
